@@ -3,12 +3,13 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ---
 
-## Flix Part 1
+## Flix Part 2
 
 ### User Stories
 
 #### REQUIRED (10pts)
-- [x] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
+- [x] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
 
 #### BONUS
 - [ ] (2pts) Views should be responsive for both landscape/portrait mode.
@@ -23,7 +24,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="./walkthrough.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Everything has been smooth so far and I really enjoy it.
 
 ### Open-source libraries used
 
